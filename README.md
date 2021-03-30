@@ -1,2 +1,2 @@
-# Big-Bang
+# Master
 Exercise 1
