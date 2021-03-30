@@ -1,0 +1,18 @@
+git init
+
+git status
+
+git add Big-Bang
+git commit -m "develop"
+
+git log
+
+git pull
+git push
+
+git checkout Big-Bang
+git checkout master main
+
+
+
+
